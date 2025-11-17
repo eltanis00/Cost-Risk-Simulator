@@ -1,0 +1,9 @@
+vendor,cost_per_unit,lead_time_days,on_time_pct,fill_rate_pct,defect_rate_pct,return_rate_pct,payment_terms_days,MOQ,geo_risk,fx_volatility_pct,cost_score,lead_time_score,reliability_score,quality_score,geo_score,fx_score,moq_score,risk_score,total_score,recommendation
+Vendor A,5.25,7,98,96,0.5,0.8,30,1000,Low,1.0,37.5,92.0,96.2,98.45,100,94.73684210526315,91.83673469387756,95.97,81.93,Maintain
+Vendor F,4.8,10,88,87,2.0,1.8,30,1200,Medium,3.0,60.0,80.0,86.1,95.2,70,73.68421052631578,89.79591836734694,77.04,79.58,Maintain
+Vendor E,5.0,12,90,92,1.2,1.0,30,1500,Medium,2.5,50.0,72.0,87.0,97.2,70,78.94736842105263,86.73469387755102,77.7,77.93,Maintain
+Vendor C,6.0,5,99,99,0.2,0.3,45,200,Low,0.5,0.0,100.0,99.2,99.4,100,100.0,100.0,100.0,74.6,Maintain
+Vendor G,5.75,9,95,94,0.8,0.9,30,600,Low,1.2,12.5,84.0,92.5,97.9,100,92.63157894736842,95.91836734693877,96.56,74.39,Maintain
+Vendor B,4.6,18,82,85,3.5,2.0,14,5000,High,6.0,70.0,48.0,76.1,92.75,40,42.10526315789473,51.02040816326531,43.94,71.47,Maintain
+Vendor D,4.2,25,75,70,5.0,4.0,60,8000,High,8.0,90.0,20.0,62.5,88.5,40,21.052631578947366,20.408163265306122,28.44,67.76,Monitor
+Vendor H,4.0,30,70,65,6.5,5.5,7,10000,High,10.0,100.0,0.0,54.5,84.75,40,0.0,0.0,16.0,64.23,Monitor
